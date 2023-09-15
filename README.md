@@ -1,6 +1,6 @@
 UFO SMASH
 
-UFO SMASH is an exciting and addictive arcade game developed using Python and the Pygame library. In this action-packed game, you control a UFO and your objective is to smash as many enemy UFOs as possible while avoiding collisions and surviving as long as you can.
+UFO SMASH is an exciting and addictive arcade game developed using Python and the Pygame library. In this action-packed game, you control a UFO and your objective is to smash as many enemy UFOs as possible while preventing enemy UFOs to collide with the boundary.
 
 Features
 
